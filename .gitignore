@@ -1,3 +1,7 @@
 # pixi environments
 .pixi/*
+
+# vscode
+.vscode
+
 !.pixi/config.toml
